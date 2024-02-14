@@ -44,6 +44,7 @@ img, .w-100{
 
 .social-link img {
 	width: 20px;
+	aspect-ratio: 1/1;
 }
 
 #about {
@@ -73,6 +74,7 @@ img, .w-100{
 
 .picture img {
 	width: 100%;
+	height: auto;
 
 }
 #about-me {
@@ -85,13 +87,11 @@ img, .w-100{
 }
 .about-me__introduction {
 	font-family: 'Spectral';
-	font-weight: 800;
-	font-style: italic;
 	width: 60%;
 }
 #about-me p {
 	width: 80%;
-	font-size: 14px;
+	font-size: 20px;
 }
 
 #gallery {
